@@ -1,14 +1,13 @@
 # ML-Models Repository
 
-A collection of machine learning models, pipelines, and utilities for various tasks. This repository is designed for easy exploration and implementation of ML workflows.
+A collection of machine learning models,projects etc. This repository is designed for easy exploration and implementation of ML workflows.
 
 ---
 
 ## Features
 
 - Prebuilt models for classification, regression, and clustering.
-- Data preprocessing utilities (e.g., scaling, encoding).
-- Hyperparameter optimization scripts.
+- Data preprocessing utilities (e.g., scaling)
 - Modular and extensible design.
 
 ---
@@ -37,18 +36,6 @@ A collection of machine learning models, pipelines, and utilities for various ta
 
 ---
 
-## Folder Structure
-
-```
-ML-Models/
-├── data/         # Datasets
-├── models/       # ML models
-├── notebooks/    # Jupyter notebooks
-├── utils/        # Helper scripts
-├── results/      # Output files
-├── requirements.txt
-└── README.md
-```
 
 ---
 
