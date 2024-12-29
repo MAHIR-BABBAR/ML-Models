@@ -31,8 +31,8 @@ A collection of machine learning models,projects etc. This repository is designe
    ```bash
    python models/logistic_regression.py
    ```
-2. Add your datasets to the `data/` folder.
-3. Use the scripts in the `utils/` folder for tuning and evaluation.
+2. Add your datasets to the `data/` folder. (Comming available)
+
 
 ---
 
