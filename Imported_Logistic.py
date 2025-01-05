@@ -11,7 +11,7 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import classification_report, accuracy_score
 
 # You can change the data set according to your need
-data = pd.read_csv('')
+data = pd.read_csv('ML-Models/blob/main/data/ChatGpt_Reviews.csv')
 
 data = data.dropna(subset=["Review"]).reset_index(drop=True)
 
